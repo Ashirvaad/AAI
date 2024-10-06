@@ -1,0 +1,8 @@
+<aiml version="1.0.1" encoding=""UTF-8>
+    <category>
+        <pattern>Sunday</pattern>
+        <template>
+        It comes between Saturday and Monday
+        </template>
+   </category>
+</aiml>
